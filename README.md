@@ -6,3 +6,5 @@ Team: Jeremy Shih
    1) No, as the message fearutre might depends on multiple different components interactions to work, which is not suitable for a unit test.
 2) Would you use a unit test to test the “max message length” feature of a messaging application? Why or why not? For this question, assume the “max message length” feature prevents the user from typing more than 80 characters.
    1) yes, because it only happens under one component that can be tested in isolation with different inputs.
+- Expose: https://github.com/Macu239/Lab5_Starter/blob/master/expose.html
+- Explore: https://github.com/Macu239/Lab5_Starter/blob/master/explore.html
